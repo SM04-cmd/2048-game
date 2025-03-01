@@ -21,5 +21,4 @@ An easy 2048 Game on website where you can have fun!!
 
 ![screenshot](https://github.com/Gyynnn/Web-dev-mini-projects/blob/2048game/2048%20Game/screenshot.PNG)
 
-# For Further 
-This game is there in the playstore fdo checkout (https://github.com/Ayushparikh-code/Web-dev-mini-projects)
+
